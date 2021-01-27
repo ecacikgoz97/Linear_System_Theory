@@ -1,7 +1,4 @@
-%% Question #3 Part(c): drawhyperplane2D
-% Prepared for ELEC405
 % By Emre Can Açıkgöz
-% 64392
 
 %% drawhyperplane3D(a, b) Function
 % This drawhyperplane3D(a, b) function generate a 3D hyperplane for a given 
