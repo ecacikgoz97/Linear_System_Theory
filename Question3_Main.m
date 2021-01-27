@@ -1,5 +1,3 @@
-%% Question3 Random Vector Generation..
-% For Elec405
 % By Emre Can Açıkgöz
 
 clear;clc;                                    % Clear Workspace & Command Window
