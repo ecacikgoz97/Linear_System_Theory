@@ -1,6 +1,3 @@
-%% Question 5
-% For Elec405
-% Emre Can Acikgoz / 64392
 clear;clc;
 %% Find Orthogonal Vectors
 A = randn(10) + i*randn(10)      % Random Complex Matrix
