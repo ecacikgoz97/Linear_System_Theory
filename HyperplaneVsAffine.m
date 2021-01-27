@@ -1,8 +1,4 @@
-%% Question 8: What is a homework without a computational part?....
-% Prepared fo Elec405
 % By Emre Can Acikgoz
-% 64392
-
 clear;                                      % Clear Workspace          
 clc;                                        % Clear Command Window
 %%
