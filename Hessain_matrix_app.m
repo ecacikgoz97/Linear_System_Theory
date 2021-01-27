@@ -1,5 +1,3 @@
-%% Question5 Part(c)
-% For Elec405
 % By Emre Can Açıkgöz
 
 clear;clc;                                 % Clear Workspace & Command Window
